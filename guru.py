@@ -1,1 +1,6 @@
-hi this is the first line in the file in guru.py
+hi
+bye
+thank you
+just for understanding the contents
+var
+string
